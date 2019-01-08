@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 孙逸云的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: stargazer Blog
+SEOTitle: 孙逸云的博客
+header-img: img/post-bg-universe.jpg
 email: freedomx04@163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 孙逸云的博客, freedomx04, stargazer, iOS, Apple, iPhone"
+keyword: "孙逸云的博客, freedomx04, stargazer, iOS, Apple, iPhone"
 url: "http://freedomx04.github.io"         
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/freedomx04/freedomx04.github.io.git" 
@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:     freedomx04
 zhihu_username:     freedomx04
 github_username:    freedomx04
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# facebook_username:  baiying.qiu.7
+jianshu_username:   0d1e28dcd3e8
 #twitter_username:   qiubaiying
 
 
